@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(45deg, purple, red);
+    font-family: sans-serif;
+}
+.mm{
+    font-size: 80px;
+}
+.m1{
+    color: white;
+}
+.m2{
+    color: black;
+}
+.m3{
+    color: white;
+}
+.m4{
+    color: black;
+}
+.m5{
+    color: white;
+}
+.m6{
+    color: black;
+}
+.m7{
+    color: white;
+}
+.m8{
+    color: black;
+}
+.plus{
+    font-size: 80px;
+    color: blue;
+}
+
+.mb{
+    font-size: 80px;
+
+}
+.s1{
+    color: violet;
+}
+.s2{
+color: gold;
+}
+.s3{
+color: rgb(4, 255, 0);
+}
+.s4{
+    color: aqua;
+}
+.s5{
+color: maroon;
+}
+.s6{
+color: blue;
+}
+.h3{
+    color: blueviolet;
+    font-size: 80px;
+}
